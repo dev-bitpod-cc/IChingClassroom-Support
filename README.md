@@ -14,7 +14,7 @@ I Ching Classroom (周易教室 / 易経教室) is an educational platform dedic
 ## 📄 Important Links
 
 - **Privacy Policy:** [privacy-policy.html](https://dev-bitpod-cc.github.io/IChingClassroom-Support/privacy-policy.html)
-- **Main Repository:** [IChingClassroom](https://github.com/dev-bitpod-cc/IChingClassroom)
+- **Support Website:** [https://dev-bitpod-cc.github.io/IChingClassroom-Support/](https://dev-bitpod-cc.github.io/IChingClassroom-Support/)
 
 ## 🔒 Privacy
 
