@@ -4,7 +4,7 @@
 
 ## 📱 About the App
 
-I Ching Classroom (易經學堂 / 易経教室) is an educational platform dedicated to teaching traditional Chinese I Ching culture through systematic courses and interactive learning tools.
+I Ching Classroom (周易教室 / 易経教室) is an educational platform dedicated to teaching traditional Chinese I Ching culture through systematic courses and interactive learning tools.
 
 - **App Store:** [Coming Soon - Submission Target: November 24, 2025]
 - **Bundle ID:** com.jwbase.IChingClassroom
